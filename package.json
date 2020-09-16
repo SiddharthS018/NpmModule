@@ -1,0 +1,22 @@
+{
+  "name": "hanicorp",
+  "version": "1.0.0",
+  "description": "We are the new ERA of the Universe",
+  "main": "primeNumMod.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthS018/NpmModule.git"
+  },
+  "keywords": [
+    "logics"
+  ],
+  "author": "Siddharthan S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiddharthS018/NpmModule/issues"
+  },
+  "homepage": "https://github.com/SiddharthS018/NpmModule#readme"
+}
